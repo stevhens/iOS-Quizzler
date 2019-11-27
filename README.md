@@ -2,7 +2,7 @@
 
 ## Outline
 
-This app makes me learn about Model View Controller (MVC) pattern. A design pattern is simply a repeatable and optimised solution to a common software problem
+This app makes me learn about Model View Controller (MVC) pattern. A design pattern is simply a repeatable and optimised solution to a common software problem.
 
 ## What is Quizzler
 
