@@ -2,7 +2,7 @@
 
 ## Outline
 
-This app makes me learn about Model View Controller (MVC) pattern. A design pattern is simply a repeatable and optimised solution to a common software problem.
+This app makes me learn about Model View Controller (MVC) architectural pattern. Same with Design Pattern which is simply a repeatable and optimised solution to a common software problem but the difference is that Design Patterns impact a specific section of code base and Architectural Patterns are high-level strategies that concern large-scale components, the global properties and mechanisms of a system.
 
 ## What is Quizzler
 
